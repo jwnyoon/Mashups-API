@@ -1,6 +1,6 @@
 # Mashups-API
 
-** These are the series of the projects about Mashup APIs. It will be updated regularly.**
+** These are the series of the projects about Mashup APIs**
 
 1. Self++++olitics : Selfie + Politics News
 
